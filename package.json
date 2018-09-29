@@ -1,0 +1,37 @@
+{
+  "name": "@osjs/freedesktop-sounds",
+  "version": "3.0.0-alpha.0",
+  "description": "OS.js v3 Freedesktop Sounds",
+  "files": [
+    "dist/",
+    "metadata.json"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "prepublishOnly": "rm -rf ./dist/* && NODE_ENV=production npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/os-js/osjs-freedesktop-sounds.git"
+  },
+  "keywords": [
+    "osjs"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "copy-webpack-plugin": "^4.5.2",
+    "webpack": "^4.16.2",
+    "webpack-cli": "^3.1.0"
+  },
+  "author": "Anders Evenrud <andersevenrud@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/os-js/osjs-freedesktop-sounds/issues"
+  },
+  "homepage": "https://github.com/os-js/osjs-freedesktop-sounds#readme",
+  "osjs": {
+    "type": "package"
+  }
+}
