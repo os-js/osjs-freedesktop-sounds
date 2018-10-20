@@ -2,9 +2,11 @@
   "type": "sounds",
   "name": "FreedesktopSounds",
   "title": {
-    "en_EN": "Freedesktop Sounds"
+    "en_EN": "Freedesktop Sounds",
+    "fr_FR": "Sons Freedesktop"
   },
   "description": {
-    "en_EN": "Freedesktop Sounds"
+    "en_EN": "Freedesktop Sounds",
+    "fr_FR": "Sons Freedesktop"
   }
 }
