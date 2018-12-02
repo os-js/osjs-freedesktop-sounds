@@ -3,10 +3,12 @@
   "name": "FreedesktopSounds",
   "title": {
     "en_EN": "Freedesktop Sounds",
-    "fr_FR": "Sons Freedesktop"
+    "fr_FR": "Sons Freedesktop",
+    "sl_SI": "Zvoki Freedesktop"
   },
   "description": {
     "en_EN": "Freedesktop Sounds",
-    "fr_FR": "Sons Freedesktop"
+    "fr_FR": "Sons Freedesktop",
+    "sl_SI": "Zvoki Freedesktop"
   }
 }
