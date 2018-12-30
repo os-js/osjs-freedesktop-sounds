@@ -18,6 +18,6 @@ This is the Freedesktop Sound theme for OS.js v3
 ## Installation
 
 ```bash
-npm install --save @osjs/freedesktop-sounds
+npm install --save --production @osjs/freedesktop-sounds
 npm run package:discover
 ```
