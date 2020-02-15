@@ -1,6 +1,6 @@
 {
   "name": "@osjs/freedesktop-sounds",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "OS.js v3 Freedesktop Sounds",
   "files": [
     "dist/",
