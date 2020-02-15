@@ -22,10 +22,10 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "copy-webpack-plugin": "^4.5.2",
-    "eslint": "^5.16.0",
-    "webpack": "^4.16.2",
-    "webpack-cli": "^3.1.0"
+    "copy-webpack-plugin": "^5.1.1",
+    "eslint": "^6.8.0",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
   },
   "author": "Anders Evenrud <andersevenrud@gmail.com>",
   "license": "BSD-2-Clause",
